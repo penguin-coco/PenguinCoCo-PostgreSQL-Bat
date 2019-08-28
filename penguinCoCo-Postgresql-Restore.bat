@@ -1,0 +1,1 @@
+psql -h localhost -U username -d database < d:/data.bak
